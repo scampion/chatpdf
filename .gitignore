@@ -1,0 +1,8 @@
+.idea/
+app.js
+bundle.js
+init.sj
+node_modules/
+package-lock.json
+tsconfig.json
+
